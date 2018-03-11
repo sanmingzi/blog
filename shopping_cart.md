@@ -13,6 +13,7 @@
 
 - 精灵3 SE
 - mavic pro
+- mavic air
 
 ## 自行车
 
