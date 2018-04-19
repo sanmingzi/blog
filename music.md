@@ -12,4 +12,5 @@
   - [会痛的石头]()
 - 苏打绿
   - [我好想你](https://www.youtube.com/watch?v=P_pyfLArjQg)
+  - [小情歌](https://www.youtube.com/watch?v=in8NNzwFa-s)
   
