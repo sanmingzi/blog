@@ -45,11 +45,9 @@ Sometimes we can not search the IPv4 google ips, we should enable ipv6.
 
 如果上述方法失败，尝试将teredo.remlab.net更换成其他的teredo地址。
 
-- teredo.remlab.net/teredo-debian.remlab.net (法国) (Miredo 默认设置)
-- teredo.autotrans.consulintel.com (西班牙)
-- teredo.ipv6.microsoft.com (美国 雷蒙德) (Windows XP/2003/Vista/7/2008 系统默认设置)
-- teredo.ngix.ne.kr (韩国)
-- teredo.managemydedi.com (美国 芝加哥)
+- teredo.remlab.net
+- teredo2.remlab.net
+- teredo-debian.remlab.net
 
 ### Install proxy client
 
